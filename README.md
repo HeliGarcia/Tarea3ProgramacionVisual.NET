@@ -1,2 +1,2 @@
 # Winforms
-Repositorio con los códigos para el módulo de WindowsForms para la clase Programación Visual .NET
+Repositorio con los códigos para la tarea#3 de Programación Visual.NET
